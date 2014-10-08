@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E6A7507C-FDDD-464F-9772-9F3B96AD86DA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ExactTime</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B81929B9FFC28B2C64C6EB9D9CC9CF1A595D7DC6</key>
+		<string>https://github.com/protovoid/ExactTime.git</string>
+		<key>DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8</key>
+		<string>https://github.com/AFNetworking/AFNetworking</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ExactTime.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B81929B9FFC28B2C64C6EB9D9CC9CF1A595D7DC6</key>
+		<string>../..</string>
+		<key>DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8</key>
+		<string>../..External/AFNetworking/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/protovoid/ExactTime.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B81929B9FFC28B2C64C6EB9D9CC9CF1A595D7DC6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AFNetworking</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B81929B9FFC28B2C64C6EB9D9CC9CF1A595D7DC6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ExactTime</string>
+		</dict>
+	</array>
+</dict>
+</plist>
